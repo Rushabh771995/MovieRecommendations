@@ -42,6 +42,9 @@ This dataset is provided by movie lens with 2 files which we will be using for t
 
 Data consistency: The data seems to be mostly clean with some missing values which have been dropped. There are a few duplicates in the data which have been dropped. 
 
+*Navigation:*
+
+[Notebook](https://github.com/Rushabh771995/MovieRecommendations/blob/main/Project.ipynb)
 
 *Softwares and Packages:*
 
