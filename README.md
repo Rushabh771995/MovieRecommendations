@@ -12,8 +12,7 @@ In this era of entertainment the companies like Netflix, Amazon prime etc. have 
 
 *Project Goal*:
 
-The goal of this project is to use image classification that is a supervised learning technique using Convolutional Neural Networks to detect traffic signs. The secondary goal is to use different model to get the best results and achieve an accuracy of 95-99% for the same.
-
+Using Alternating Least Square method for colaborative Filtering  in PySpark SQL for providing recommendations to the users.
 
 
 *Motivation:*
